@@ -1,7 +1,9 @@
 ---
 title: "Resources"
-layout: splash
+layout: single
 permalink: /resources/
+toc: true
+author_profile: false
 ---
 
 # Speakers and their Roles
