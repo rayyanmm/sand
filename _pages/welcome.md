@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
 permalink: /
-layout: wide
+layout: single
 author_profile: false
 ---
