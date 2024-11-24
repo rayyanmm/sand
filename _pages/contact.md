@@ -1,6 +1,7 @@
 ---
 title: "Contact Us"
 permalink: /contact/
-layout: wide
+layout: single
+classes: wide
 author_profile: false
 ---
