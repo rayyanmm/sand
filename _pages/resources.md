@@ -1,7 +1,6 @@
 ---
 title: "Resources"
-layout: single
-classes: wide
+layout: splash
 permalink: /resources/
 ---
 
