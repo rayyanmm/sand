@@ -1,8 +1,7 @@
 ---
 title: "SAND"
 permalink: /
-layout: single
-classes: wide
+layout: splash
 author_profile: false
 excerpt: "Saudi Arabian National Debate Contest"
 header:
